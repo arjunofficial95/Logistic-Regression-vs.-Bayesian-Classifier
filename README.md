@@ -1,1 +1,3 @@
-# Logistic-Regression-vs.-Bayesian-Classifier
+1. Load Task1E_train.csv and Task1E_test.csv
+
+2. Using the first 5 data points from the training set, train a BC and a LR model, and compute their training and testing errors. In a “for loop”, increase the size of training set (5 data points at a time), retrain the models and calculate their training and testing errors until all training data points are used. In one figure, plot the training errors of the BC and LR models (with different colors) versus the size of the training set and in the other figure, plot the testing errors of the BC and LR models(with different colors) versus the size of the training set
